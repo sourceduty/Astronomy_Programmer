@@ -12,6 +12,8 @@ Additionally, this GPT focuses on best practices in astronomical programming, fr
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Computational Astrophysics](https://github.com/sourceduty/Computational_Astrophysics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
